@@ -4,8 +4,7 @@
 ![POO](https://img.shields.io/badge/Paradigma-POO-orange)
 ![Status](https://img.shields.io/badge/Status-%20Concluído-red)
 
-Este repositório contém o desenvolvimento completo de um **Sistema
-Escolar** implementado em **C++**, utilizando os princípios fundamentais
+Este repositório contém o desenvolvimento completo de um **Sistema de Biblioteca em C++** implementado em **C++**, utilizando os princípios fundamentais
 da **Programação Orientada a Objetos (POO)**.
 
 ## Sobre o Projeto
