@@ -1,4 +1,12 @@
 # Sistema de Biblioteca em C++
+![C++](https://img.shields.io/badge/Linguagem-C%2B%2B-blue)
+![License](https://img.shields.io/badge/Licença-MIT-green)
+![POO](https://img.shields.io/badge/Paradigma-POO-orange)
+![Status](https://img.shields.io/badge/Status-%20Concluído-red)
+
+Este repositório contém o desenvolvimento completo de um **Sistema
+Escolar** implementado em **C++**, utilizando os princípios fundamentais
+da **Programação Orientada a Objetos (POO)**.
 
 ## Sobre o Projeto
 
