@@ -202,4 +202,11 @@ Para execução detalhada, veja a seção "Como executar o projeto" acima.
 * Exemplos de código
 * Histórico de versões do sistema
 
----
+## Alunos:
+- GUSTAVO WILLIAMS GOMES DA SILVA
+- JHONATA BANDEIRA DE OLIVEIRA
+- MARIA EDUARDA CASCAES VITAL
+- MARIA LUIZA SERRAO DA SILVA
+- NAYANNE CHRISTINE FONSECA SARAIVA
+- NICOLE BEATRIZ CASCAIS VIDAL
+
